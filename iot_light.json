@@ -1,0 +1,30 @@
+{
+    "3d" : [
+        {
+            "status": "ON",
+            "id": 1,
+            "count": "8/10"
+        }
+    ],
+    "meeting" : [
+        {
+            "status": "OFF",
+            "id": 2,
+            "count": "0/5"
+        }
+    ],
+    "industrial" : [
+        {
+            "status": "OFF",
+            "id": 3,
+            "count": "0/10"
+        }
+    ],
+    "mobile" : [
+        {
+            "status": "ON",
+            "id": 4,
+            "count": "6/10"
+        }
+    ]
+}
