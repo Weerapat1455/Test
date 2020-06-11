@@ -5,5 +5,12 @@
             "id": 1,
             "op_time": "08h 38m"
         }
+    ],
+    "air2" : [
+        {
+            "status": "OFF",
+            "id": 2,
+            "op_time": "00h 00m"
+        }
     ]
 }
